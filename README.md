@@ -1,4 +1,4 @@
-# Cidades e Estados brasileiros
+# Cidades e Estados BR para MongoDB
 
 Arquivos com todas as cidades e estados brasileiros para o Banco de Dados MongoDB.
 
